@@ -15,13 +15,13 @@ For more info visit:
 
 ## Screenshots 
 
-![Sign](https://drive.google.com/file/d/1CbSjwk3UeLQQvrTyegbULY__IBfPQr8D/view?usp=sharing)
+![Sign](https://drive.google.com/uc?export=view&id=1CbSjwk3UeLQQvrTyegbULY__IBfPQr8D)
 
-![Modal](https://drive.google.com/file/d/1Zh5n1aMqbclYEFOUuvD8cioH_cJHbtfq/view?usp=sharing)
+![Modal](https://drive.google.com/uc?export=view&id=1Zh5n1aMqbclYEFOUuvD8cioH_cJHbtfq)
 
-![Home](https://drive.google.com/file/d/1gfMo5GG1PzyhYiFQHYnUQRp85OE3G6Ue/view?usp=sharing)
+![Home](https://drive.google.com/uc?export=view&id=1gfMo5GG1PzyhYiFQHYnUQRp85OE3G6Ue)
 
-![Movies](https://drive.google.com/file/d/1jbB_TFR1sXM6f0LqMTOyaXk3H86KsFEC/view?usp=sharing)
+![Movies](https://drive.google.com/uc?export=view&id=1jbB_TFR1sXM6f0LqMTOyaXk3H86KsFEC)
 
 
 ## Compatible Platforms:
